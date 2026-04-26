@@ -65,7 +65,7 @@ Trace the complete journey of a patient through:
 
 ### Step 6 — Solve 10 Business Queries
 
-| # | Question |
+| # |  Question |
 |---|---|
 | 1 | How many rows have a gross charge > $100? |
 | 2 | How many unique patients are in the database? |
