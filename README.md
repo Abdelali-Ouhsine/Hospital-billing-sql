@@ -5,6 +5,7 @@ The schema models the complete patient journey: care delivery → billing → in
 
 ---
 
+
 ## 🗃️ Database Schema
 
 The database is composed of **1 fact table** and **8 dimension tables**:
